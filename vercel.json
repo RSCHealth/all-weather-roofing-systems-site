@@ -1,0 +1,386 @@
+{
+  "rewrites": [
+    {
+      "source": "/roofing-contractor-st-louis-mo",
+      "destination": "/roofing-contractor-st-louis-mo/index.html"
+    },
+    {
+      "source": "/services",
+      "destination": "/services/index.html"
+    },
+    {
+      "source": "/about",
+      "destination": "/about/index.html"
+    },
+    {
+      "source": "/contact",
+      "destination": "/contact/index.html"
+    },
+    {
+      "source": "/locations",
+      "destination": "/locations/index.html"
+    },
+    {
+      "source": "/roof-repair-service-st-louis-mo",
+      "destination": "/roof-repair-service-st-louis-mo/index.html"
+    },
+    {
+      "source": "/roof-leak-repair-st-louis-mo",
+      "destination": "/roof-leak-repair-st-louis-mo/index.html"
+    },
+    {
+      "source": "/metal-roofing-company-st-louis-mo",
+      "destination": "/metal-roofing-company-st-louis-mo/index.html"
+    },
+    {
+      "source": "/commercial-roofing-contractor-st-louis-mo",
+      "destination": "/commercial-roofing-contractor-st-louis-mo/index.html"
+    },
+    {
+      "source": "/industrial-roofing-st-louis-mo",
+      "destination": "/industrial-roofing-st-louis-mo/index.html"
+    },
+    {
+      "source": "/residential-roof-replacement-st-louis-mo",
+      "destination": "/residential-roof-replacement-st-louis-mo/index.html"
+    },
+    {
+      "source": "/new-roof-installation-st-louis-mo",
+      "destination": "/new-roof-installation-st-louis-mo/index.html"
+    },
+    {
+      "source": "/storm-and-hail-damage-restoration-st-louis-mo",
+      "destination": "/storm-and-hail-damage-restoration-st-louis-mo/index.html"
+    },
+    {
+      "source": "/emergency-roofing-24-7-st-louis-mo",
+      "destination": "/emergency-roofing-24-7-st-louis-mo/index.html"
+    },
+    {
+      "source": "/roof-inspection-st-louis-mo",
+      "destination": "/roof-inspection-st-louis-mo/index.html"
+    },
+    {
+      "source": "/free-roof-estimate-st-louis-mo",
+      "destination": "/free-roof-estimate-st-louis-mo/index.html"
+    },
+    {
+      "source": "/service-areas/st-louis-county",
+      "destination": "/service-areas/st-louis-county/index.html"
+    },
+    {
+      "source": "/service-areas/st-charles-county",
+      "destination": "/service-areas/st-charles-county/index.html"
+    },
+    {
+      "source": "/service-areas/jefferson-county",
+      "destination": "/service-areas/jefferson-county/index.html"
+    },
+    {
+      "source": "/service-areas/madison-county",
+      "destination": "/service-areas/madison-county/index.html"
+    },
+    {
+      "source": "/service-areas/st-clair-county",
+      "destination": "/service-areas/st-clair-county/index.html"
+    },
+    {
+      "source": "/service-areas/clayton-mo",
+      "destination": "/service-areas/clayton-mo/index.html"
+    },
+    {
+      "source": "/roof-replacement-clayton",
+      "destination": "/roof-replacement-clayton/index.html"
+    },
+    {
+      "source": "/roof-repair-clayton",
+      "destination": "/roof-repair-clayton/index.html"
+    },
+    {
+      "source": "/storm-damage-clayton",
+      "destination": "/storm-damage-clayton/index.html"
+    },
+    {
+      "source": "/service-areas/ladue-mo",
+      "destination": "/service-areas/ladue-mo/index.html"
+    },
+    {
+      "source": "/roof-replacement-ladue",
+      "destination": "/roof-replacement-ladue/index.html"
+    },
+    {
+      "source": "/roof-repair-ladue",
+      "destination": "/roof-repair-ladue/index.html"
+    },
+    {
+      "source": "/storm-damage-ladue",
+      "destination": "/storm-damage-ladue/index.html"
+    },
+    {
+      "source": "/service-areas/frontenac-mo",
+      "destination": "/service-areas/frontenac-mo/index.html"
+    },
+    {
+      "source": "/service-areas/town-and-country-mo",
+      "destination": "/service-areas/town-and-country-mo/index.html"
+    },
+    {
+      "source": "/service-areas/chesterfield-mo",
+      "destination": "/service-areas/chesterfield-mo/index.html"
+    },
+    {
+      "source": "/roof-replacement-chesterfield",
+      "destination": "/roof-replacement-chesterfield/index.html"
+    },
+    {
+      "source": "/roof-repair-chesterfield",
+      "destination": "/roof-repair-chesterfield/index.html"
+    },
+    {
+      "source": "/storm-damage-chesterfield",
+      "destination": "/storm-damage-chesterfield/index.html"
+    },
+    {
+      "source": "/service-areas/creve-coeur-mo",
+      "destination": "/service-areas/creve-coeur-mo/index.html"
+    },
+    {
+      "source": "/roof-replacement-creve-coeur",
+      "destination": "/roof-replacement-creve-coeur/index.html"
+    },
+    {
+      "source": "/roof-repair-creve-coeur",
+      "destination": "/roof-repair-creve-coeur/index.html"
+    },
+    {
+      "source": "/storm-damage-creve-coeur",
+      "destination": "/storm-damage-creve-coeur/index.html"
+    },
+    {
+      "source": "/service-areas/kirkwood-mo",
+      "destination": "/service-areas/kirkwood-mo/index.html"
+    },
+    {
+      "source": "/roof-replacement-kirkwood",
+      "destination": "/roof-replacement-kirkwood/index.html"
+    },
+    {
+      "source": "/roof-repair-kirkwood",
+      "destination": "/roof-repair-kirkwood/index.html"
+    },
+    {
+      "source": "/storm-damage-kirkwood",
+      "destination": "/storm-damage-kirkwood/index.html"
+    },
+    {
+      "source": "/service-areas/webster-groves-mo",
+      "destination": "/service-areas/webster-groves-mo/index.html"
+    },
+    {
+      "source": "/service-areas/ballwin-mo",
+      "destination": "/service-areas/ballwin-mo/index.html"
+    },
+    {
+      "source": "/service-areas/wildwood-mo",
+      "destination": "/service-areas/wildwood-mo/index.html"
+    },
+    {
+      "source": "/service-areas/st-charles-mo",
+      "destination": "/service-areas/st-charles-mo/index.html"
+    },
+    {
+      "source": "/roof-replacement-st-charles",
+      "destination": "/roof-replacement-st-charles/index.html"
+    },
+    {
+      "source": "/roof-repair-st-charles",
+      "destination": "/roof-repair-st-charles/index.html"
+    },
+    {
+      "source": "/storm-damage-st-charles",
+      "destination": "/storm-damage-st-charles/index.html"
+    },
+    {
+      "source": "/service-areas/ofallon-mo",
+      "destination": "/service-areas/ofallon-mo/index.html"
+    },
+    {
+      "source": "/roof-replacement-ofallon",
+      "destination": "/roof-replacement-ofallon/index.html"
+    },
+    {
+      "source": "/roof-repair-ofallon",
+      "destination": "/roof-repair-ofallon/index.html"
+    },
+    {
+      "source": "/storm-damage-ofallon",
+      "destination": "/storm-damage-ofallon/index.html"
+    },
+    {
+      "source": "/service-areas/st-peters-mo",
+      "destination": "/service-areas/st-peters-mo/index.html"
+    },
+    {
+      "source": "/roof-replacement-st-peters",
+      "destination": "/roof-replacement-st-peters/index.html"
+    },
+    {
+      "source": "/roof-repair-st-peters",
+      "destination": "/roof-repair-st-peters/index.html"
+    },
+    {
+      "source": "/storm-damage-st-peters",
+      "destination": "/storm-damage-st-peters/index.html"
+    },
+    {
+      "source": "/service-areas/wentzville-mo",
+      "destination": "/service-areas/wentzville-mo/index.html"
+    },
+    {
+      "source": "/roof-replacement-wentzville",
+      "destination": "/roof-replacement-wentzville/index.html"
+    },
+    {
+      "source": "/roof-repair-wentzville",
+      "destination": "/roof-repair-wentzville/index.html"
+    },
+    {
+      "source": "/storm-damage-wentzville",
+      "destination": "/storm-damage-wentzville/index.html"
+    },
+    {
+      "source": "/service-areas/lake-saint-louis-mo",
+      "destination": "/service-areas/lake-saint-louis-mo/index.html"
+    },
+    {
+      "source": "/service-areas/cottleville-mo",
+      "destination": "/service-areas/cottleville-mo/index.html"
+    },
+    {
+      "source": "/service-areas/arnold-mo",
+      "destination": "/service-areas/arnold-mo/index.html"
+    },
+    {
+      "source": "/roof-replacement-arnold",
+      "destination": "/roof-replacement-arnold/index.html"
+    },
+    {
+      "source": "/roof-repair-arnold",
+      "destination": "/roof-repair-arnold/index.html"
+    },
+    {
+      "source": "/storm-damage-arnold",
+      "destination": "/storm-damage-arnold/index.html"
+    },
+    {
+      "source": "/service-areas/imperial-mo",
+      "destination": "/service-areas/imperial-mo/index.html"
+    },
+    {
+      "source": "/service-areas/festus-mo",
+      "destination": "/service-areas/festus-mo/index.html"
+    },
+    {
+      "source": "/service-areas/edwardsville-il",
+      "destination": "/service-areas/edwardsville-il/index.html"
+    },
+    {
+      "source": "/roof-replacement-edwardsville",
+      "destination": "/roof-replacement-edwardsville/index.html"
+    },
+    {
+      "source": "/roof-repair-edwardsville",
+      "destination": "/roof-repair-edwardsville/index.html"
+    },
+    {
+      "source": "/storm-damage-edwardsville",
+      "destination": "/storm-damage-edwardsville/index.html"
+    },
+    {
+      "source": "/service-areas/glen-carbon-il",
+      "destination": "/service-areas/glen-carbon-il/index.html"
+    },
+    {
+      "source": "/roof-replacement-glen-carbon",
+      "destination": "/roof-replacement-glen-carbon/index.html"
+    },
+    {
+      "source": "/roof-repair-glen-carbon",
+      "destination": "/roof-repair-glen-carbon/index.html"
+    },
+    {
+      "source": "/storm-damage-glen-carbon",
+      "destination": "/storm-damage-glen-carbon/index.html"
+    },
+    {
+      "source": "/service-areas/collinsville-il",
+      "destination": "/service-areas/collinsville-il/index.html"
+    },
+    {
+      "source": "/roof-replacement-collinsville",
+      "destination": "/roof-replacement-collinsville/index.html"
+    },
+    {
+      "source": "/roof-repair-collinsville",
+      "destination": "/roof-repair-collinsville/index.html"
+    },
+    {
+      "source": "/storm-damage-collinsville",
+      "destination": "/storm-damage-collinsville/index.html"
+    },
+    {
+      "source": "/service-areas/troy-il",
+      "destination": "/service-areas/troy-il/index.html"
+    },
+    {
+      "source": "/service-areas/maryville-il",
+      "destination": "/service-areas/maryville-il/index.html"
+    },
+    {
+      "source": "/service-areas/ofallon-il",
+      "destination": "/service-areas/ofallon-il/index.html"
+    },
+    {
+      "source": "/roof-replacement-ofallon-il",
+      "destination": "/roof-replacement-ofallon-il/index.html"
+    },
+    {
+      "source": "/roof-repair-ofallon-il",
+      "destination": "/roof-repair-ofallon-il/index.html"
+    },
+    {
+      "source": "/storm-damage-ofallon-il",
+      "destination": "/storm-damage-ofallon-il/index.html"
+    },
+    {
+      "source": "/service-areas/belleville-il",
+      "destination": "/service-areas/belleville-il/index.html"
+    },
+    {
+      "source": "/roof-replacement-belleville",
+      "destination": "/roof-replacement-belleville/index.html"
+    },
+    {
+      "source": "/roof-repair-belleville",
+      "destination": "/roof-repair-belleville/index.html"
+    },
+    {
+      "source": "/storm-damage-belleville",
+      "destination": "/storm-damage-belleville/index.html"
+    },
+    {
+      "source": "/service-areas/shiloh-il",
+      "destination": "/service-areas/shiloh-il/index.html"
+    },
+    {
+      "source": "/service-areas/swansea-il",
+      "destination": "/service-areas/swansea-il/index.html"
+    },
+    {
+      "source": "/service-areas/mascoutah-il",
+      "destination": "/service-areas/mascoutah-il/index.html"
+    }
+  ],
+  "trailingSlash": true,
+  "cleanUrls": true
+}
