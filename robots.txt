@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /_seo-data/
+
+Sitemap: https://www.allweatherroofingsystems.com/sitemap.xml
